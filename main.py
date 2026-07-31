@@ -1,7 +1,7 @@
 import telebot
 
 # مفتاح البوت الخاص بك
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8631102007:AAGZ3ijUN945H6Xjnc2tLrLBd6CUzg0v-4o"
 
 bot = telebot.TeleBot(TOKEN)
 
